@@ -23,8 +23,7 @@ The model achieved:
 
 ## How to run
 Clone this repo:
-   ```bash
-   git clone https://github.com/твоє_ім’я/resnet-artifact-classifier.git```
+```bash git clone https://github.com/твоє_ім’я/resnet-artifact-classifier.git```
 
 
 
