@@ -22,9 +22,11 @@ The model achieved:
 
 
 ## How to run
-Clone this repo:
+1. Clone this repo:
 ```bash git clone https://github.com/твоє_ім’я/resnet-artifact-classifier.git```
 
+
+2. ```!pip freeze > requirements.txt```
 
 
 ## Conclusion
